@@ -1,32 +1,32 @@
 [
   {
     "remote"      : "github",
-    "repository"  : "OdSazib/halcyon_kernel_xiaomi_sdm660",
+    "repository"  : "sadi80/halcyon_kernel_xiaomi_sdm660",
     "target_path" : "kernel/xiaomi/sdm660",
-    "branch"      : "4.19"
+    "branch"      : "120"
   },
   {
     "remote"      : "github",
-    "repository"  : "OdSazib/vendor_xiaomi_sdm660-common",
+    "repository"  : "sadi80/vendor_xiaomi_sdm660-common",
     "target_path" : "vendor/xiaomi/sdm660-common",
-    "branch"      : "11"
+    "branch"      : "120"
   },
   {
     "remote"      : "github",
-    "repository"  : "OdSazib/android_hardware_qcom_display",
+    "repository"  : "sadi80/android_hardware_qcom_display",
     "target_path" : "hardware/qcom-caf/sdm660/display",
-    "branch"      : "11"
+    "branch"      : "120"
   },
   {
     "remote"      : "github",
-    "repository"  : "OdSazib/android_hardware_qcom_media",
+    "repository"  : "sadi80/android_hardware_qcom_media",
     "target_path" : "hardware/qcom-caf/sdm660/media",
-    "branch"      : "11"
+    "branch"      : "120"
   },
   {
     "remote"      : "github",
-    "repository"  : "OdSazib/android_hardware_qcom_audio",
+    "repository"  : "sadi80/android_hardware_qcom_audio",
     "target_path" : "hardware/qcom-caf/sdm660/audio",
-    "branch"      : "11"
+    "branch"      : "120"
   }
 ]

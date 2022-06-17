@@ -1,7 +1,7 @@
 [
   {
     "remote"      : "github",
-    "repository"  : "sadi80/halcyon_kernel_xiaomi_sdm660",
+    "repository"  : "sadi80/kernel_xiaomi_sdm660",
     "target_path" : "kernel/xiaomi/sdm660",
     "branch"      : "120"
   },
